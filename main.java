@@ -2,7 +2,7 @@
  * Cette classe represente un programme permettant a la compagnie XXX de fabriquer des codes numeriques de ses employes a partir de 
  * leurs informations personnelles (la date de naissance et le sexe).
  *
- * @author Xin Ran Fang
+ * @author Fang, Xin Ran
  * @version 2020-10-01
  */
 
